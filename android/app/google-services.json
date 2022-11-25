@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979114752162",
+    "project_id": "emfdetection",
+    "storage_bucket": "emfdetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979114752162:android:b5aff027b4258fe44cbffb",
+        "android_client_info": {
+          "package_name": "com.example.project_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979114752162-6ji3b1chbb6pd9gng4b2aul08l08slj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFMfRKO8483R8x46H4OhpPNbtsRKQq3N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979114752162-6ji3b1chbb6pd9gng4b2aul08l08slj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
